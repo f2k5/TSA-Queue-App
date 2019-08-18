@@ -1,6 +1,6 @@
 # TSA-Random-Direction-App
-<h4>Simply shows an arrow pointing left or right randomly upon pressing the button DIRECTION:
-</br> Screenshots
+<h4>Simply shows an arrow pointing left or right randomly upon pressing the button "DIRECTION"
+</br> Screenshots:
 </h4>
 
 <p float="left">
